@@ -1,0 +1,7 @@
+RideID,DriverID,PassengerID,StartLocation,EndLocation,StartTime,EndTime,Fare,Status,CreatedAt
+1,1,2,"Maninagar, Ahmedabad","Vastrapur, Ahmedabad","2024-12-27 15:31:49",NULL,NULL,Requested,"2024-12-27 15:31:49"
+2,1,4,"Indiranagar, Ahmedabad","LD College, Ahmedabad","2024-12-22 10:30:00","2024-12-22 11:00:00",250.00,Completed,"2024-12-27 16:03:39"
+3,3,4,"Nehrunagar, Ahmedabad","AMA, Ahmedabad","2024-12-23 09:00:00","2024-12-23 09:45:00",400.00,Completed,"2024-12-27 16:03:39"
+4,5,6,"MG Road, Ahmedabad","university road, Ahmedabad","2024-12-24 14:15:00","2024-12-27 16:09:58",550.00,Completed,"2024-12-27 16:03:39"
+5,3,7,"BTM Layout, Ahmedabad","Jayanagar, Ahmedabad","2024-12-24 08:00:00",NULL,NULL,Ongoing,"2024-12-27 16:03:39"
+6,8,2,"JP Nagar, Ahmedabad","Bapunagar, Ahmedabad","2024-12-25 16:00:00",NULL,NULL,Requested,"2024-12-27 16:03:39"

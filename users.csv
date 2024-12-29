@@ -1,0 +1,10 @@
+UserID,Name,Email,PhoneNumber,UserType,PasswordHash,CreatedAt
+1,Jagatbhai,jagat.guru@gmail.com,9087654310,Driver,j@1234,"2024-12-27 15:14:37"
+2,"bipin bhai",bipin@gmail.com,9028764315,Passenger,bp@1234,"2024-12-27 15:17:59"
+3,"Alice Johnson",alice.johnson@example.com,9876543210,Driver,aj@1234,"2024-12-27 15:21:13"
+4,"John Doe",john.doe@example.com,9123456780,Passenger,jd@1234,"2024-12-27 15:38:55"
+5,"Mark Smith",mark.smith@example.com,9988776655,Driver,ms@1234,"2024-12-27 15:38:55"
+6,"Sarah Lee",sarah.lee@example.com,8877665544,Passenger,sl@1234,"2024-12-27 15:38:55"
+7,"Emma David",emma.davis@example.com,7766554433,Passenger,ed@1234,"2024-12-27 15:38:55"
+8,"Michael Brown",michael.brown@example.com,6655443322,Driver,mb@1234,"2024-12-27 15:38:55"
+9,"james bond",jb@gmail.com,9898765463,Driver,jb@1234,"2024-12-29 15:05:55"
